@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ''
+tagline:          'Evgeny Grebenyuk'
+description:      "Evgeny's blog<br/> Mostly F#"
+baseurl:          /
+
+author:
+  name:           'Evgeny Grebenyuk'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+plugins: [jekyll-paginate]
+
+github:           https://github.com/eugene-g/constructcouncil.com
